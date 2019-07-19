@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/factura")
 public class FacturaController {
 
-	@GetMapping("/form/{clinete_id}")
+	/*@GetMapping("/form/{clinete_id}")
 	public String crear(@PathVariable(value="clientId")) {
 		
-	}
+	}*/
 
 }
